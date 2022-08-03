@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MorganGarciaBrown
-- 👀 I’m interested in exploring, lower level software engineering, and developer tooling
-- 🌱 I’m currently learning, Emulator/Simulators
-- 📫 How to reach me, mbrown@booment.com
+wow much empty
 
 <!---
 MorganGarciaBrown/MorganGarciaBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
