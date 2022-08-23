@@ -1,6 +1,4 @@
-<h1>Wow much code</h1>
-
-[![Morgans GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganGarciaBrown)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align='center'>Wow much code</h1>
 
 <!---
 MorganGarciaBrown/MorganGarciaBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
